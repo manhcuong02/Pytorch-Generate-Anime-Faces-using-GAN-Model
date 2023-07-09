@@ -6,3 +6,8 @@ Dataset: https://www.kaggle.com/datasets/soumikrakshit/anime-faces
 ![](images/dc_gan.jpg)
 
 - Sample:
+
+![](images/anime_faces_sample.jpg)
+- 100 epochs
+
+![](gif/dc_gan_anime_faces.gif)
