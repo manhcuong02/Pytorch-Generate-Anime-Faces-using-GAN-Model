@@ -11,3 +11,9 @@ Dataset: https://www.kaggle.com/datasets/soumikrakshit/anime-faces
 - 100 epochs
 
 ![](gif/dc_gan_anime_faces.gif)
+
+# Conditional GAN
+- Model architecture
+
+
+![]
