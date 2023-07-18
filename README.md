@@ -3,6 +3,7 @@
 Dataset: https://www.kaggle.com/datasets/soumikrakshit/anime-faces
 
 # Deep Convolutional GAN
+- DC GAN: 
 ![](images/dc_gan.jpg)
 
 - Sample:
@@ -13,7 +14,6 @@ Dataset: https://www.kaggle.com/datasets/soumikrakshit/anime-faces
 ![](gif/dc_gan_anime_faces.gif)
 
 # Conditional GAN
-- Model architecture
+- C-GAN
 
-
-![]
+![](images/c_gan_model.PNG)
