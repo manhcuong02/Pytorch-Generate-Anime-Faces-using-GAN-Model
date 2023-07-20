@@ -25,4 +25,4 @@
 
 - 100 epochs:
 
-![](c_gan/fashion_c_gan.gif)
+![](gif/fashion_c_gan.gif)
