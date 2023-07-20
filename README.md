@@ -10,9 +10,26 @@
 - Sample: https://www.kaggle.com/datasets/soumikrakshit/anime-faces
 
 ![](images/anime_faces_sample.jpg)
-- 100 epochs
+- 100 epochs:
 
 ![](gifs/dc_gan_anime_faces.gif)
+
+# Wasserstein GAN With Gradient Penalty
+- W-gan-gp:
+
+![](images/wgan.jpg)
+
+- Sample: https://www.kaggle.com/datasets/soumikrakshit/anime-faces
+
+![](images/anime_faces_sample.jpg)
+
+- 100 epochs:
+
+![](gifs/w_gan_100_epochs.gif)
+
+- 200 epochs:
+
+![](gifs/w_gan_200_epochs.gif)
 
 # Conditional GAN
 - C-GAN
