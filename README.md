@@ -12,7 +12,7 @@
 ![](images/anime_faces_sample.jpg)
 - 100 epochs
 
-![](gif/dc_gan_anime_faces.gif)
+![](gifs/dc_gan_anime_faces.gif)
 
 # Conditional GAN
 - C-GAN
@@ -25,4 +25,4 @@
 
 - 100 epochs:
 
-![](gif/fashion_c_gan.gif)
+![](gifs/fashion_c_gan.gif)
