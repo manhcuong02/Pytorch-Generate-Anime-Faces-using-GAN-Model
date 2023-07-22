@@ -1,4 +1,4 @@
-# Pytorch-Generate-Anime-Faces-using-GAN-Model
+# Pytorch-Generative-Adversarial-Network
 
 - GAN (Generative Adversarial Network) is a deep learning framework consisting of two neural networks: the generator and the discriminator. The goal of GAN is to generate new data that resembles a given training dataset. The generator learns to create synthetic data samples, such as images or text, while the discriminator learns to distinguish between the real and generated data.
 
